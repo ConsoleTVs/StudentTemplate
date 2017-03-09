@@ -12,6 +12,7 @@ use the template.
 ```
 cd ~
 mkdir .pandoc
+cd .pandoc
 git clone https://github.com/ConsoleTVs/StudentTemplate.git
 ```
 
