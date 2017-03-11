@@ -122,7 +122,7 @@ $for(bibliography)$
 \addbibresource{$bibliography$}
 $endfor$
 $endif$
-$if(listings)$
+
 
 \usepackage{listings}
 
@@ -162,7 +162,6 @@ $if(listings)$
  
 \lstset{style=mystyle}
 
-$endif$
 $if(lhs)$
 \lstnewenvironment{code}{\lstset{language=Haskell,basicstyle=\small\ttfamily}}{}
 $endif$
