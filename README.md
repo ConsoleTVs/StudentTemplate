@@ -14,6 +14,8 @@ cd ~
 git clone https://github.com/ConsoleTVs/StudentTemplate.git .pandoc
 ```
 
+*Note:* You will need Pandoc (http://pandoc.org/installing.html) installed and ```texlive``` to generate PDFs using LaTeX
+
 ## Usage
 
 After you followed the installation proccess you'll be able to use the template.
