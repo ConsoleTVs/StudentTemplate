@@ -285,7 +285,7 @@ $endif$
 
 \renewcommand{\lstlistingname}{Codi}
 $if(lol-title)$
-\renewcommand{\lstlistlistingname}{$lot-title$}
+\renewcommand{\lstlistlistingname}{$lol-title$}
 $else$
 \renewcommand{\lstlistlistingname}{Llista de Codis}
 $endif$
