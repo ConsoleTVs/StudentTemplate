@@ -14,7 +14,16 @@ cd ~
 git clone https://github.com/ConsoleTVs/StudentTemplate.git .pandoc
 ```
 
-*Note:* You will need Pandoc (http://pandoc.org/installing.html) installed and ```texlive``` to generate PDFs using LaTeX
+*Note:* You will need Pandoc (http://pandoc.org/installing.html) installed, ```texlive``` and ```texlive-full``` to generate PDFs using LaTeX
+
+
+For ubuntu 18.04:
+
+```
+sudo apt install pandoc
+sudo apt install texlive
+sudo apt install texlive-full
+```
 
 ## Usage
 
